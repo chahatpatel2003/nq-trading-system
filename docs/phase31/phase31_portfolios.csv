@@ -1,0 +1,6 @@
+portfolio,sleeves,n,per_week,per_month,pf,win_rate,net_1x,monthly_1x,intraday_dd_1x,ret_over_dd,max_safe_n_hist,max_safe_n_mc,monthly_at_safe_hist,monthly_at_safe_mc,mc_p99_1x,mc_p99_at_safe,mc_breach_1x
+P30_swd+idb,"swd_clean_path|RTH|a2.5|toPOC, idb_base|RTH|a2.5|eod",465,1.64,7.05,1.481,0.4559,15833.93,239.91,2171.62,7.29,1,0,239.91,0.0,4944.24,5064.9,0.213
+swd_family_multi,"swd_clean_path|RTH|a2.5|toPOC, sweep_displacement|NY_AM|s1|rr1.5, sweep_displacement|ALLDAY|s1|rr2",1030,3.63,15.61,1.374,0.4136,13186.54,199.8,1752.54,7.52,1,0,199.8,0.0,5283.2,4846.11,0.189
+diverse3,"swd_clean_path|RTH|a2.5|toPOC, idb_base|RTH|a2.5|eod, sweep_displacement|ALLDAY|s1|rr2",1066,3.76,16.15,1.396,0.4081,19071.36,288.96,2316.52,8.23,1,0,288.96,0.0,5412.38,5071.87,0.265
+diverse4_trend,"swd_clean_path|RTH|a2.5|toPOC, idb_base|RTH|a2.5|eod, sweep_displacement|ALLDAY|s1|rr2, ema_cross_21_50|NY_AM|s1.5|rr3",2070,7.3,31.36,1.247,0.371,27552.02,417.45,3736.68,7.37,0,0,0.0,0.0,9143.65,9143.65,0.872
+freq_sweeps,"sweep_displacement|NY_AM|s1|rr1.5, sweep_displacement|RTH|s1|rr2, sweep_displacement|ALLDAY|s1|rr2",1100,3.88,16.67,1.266,0.3991,8256.59,125.1,2117.02,3.9,1,0,125.1,0.0,6203.66,5773.41,0.295

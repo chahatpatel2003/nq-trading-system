@@ -1,0 +1,10 @@
+setting,best_pf,family,dir,target,stop,win_rate,breakeven_wr,edge_vs_be,n_pf_ge_1,n_pf_ge_14
+touch,0.865,trend_pullback_vwap,long,8,8,0.5011,0.5377,-0.0366,0,0
+1tk_through,0.839,trend_pullback_vwap,long,8,8,0.4937,0.5379,-0.0442,0,0
+2tk_through,0.816,trend_pullback_vwap,long,8,8,0.4869,0.538,-0.0511,0,0
+touch_2x,0.742,trend_pullback_vwap,long,8,8,0.5,0.5744,-0.0744,0,0
+touch_3x,0.637,trend_pullback_vwap,long,8,8,0.4986,0.61,-0.1113,0,0
+touch_4x,0.546,failed_breakout,long,8,8,0.498,0.6451,-0.1471,0,0
+1tk_2x,0.684,failed_breakout,long,8,8,0.4932,0.5876,-0.0944,0,0
+touch_NQ,0.901,trend_pullback_vwap,long,8,8,0.5018,0.5278,-0.026,0,0
+touch_zerocost,1.011,trend_pullback_vwap,long,8,8,0.5026,0.4997,0.0028,7,0

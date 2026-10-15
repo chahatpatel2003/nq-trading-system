@@ -1,0 +1,6 @@
+prototype,direction,trades,pf,win_rate,net,expectancy,max_dd,monthly_avg,pass_100k_3k_1mnq
+gap_up_unfilled_short_toPOC,short,377,1.158,0.374,4100.25,10.88,3073.91,62.12,false
+sweep_pdh_short_toPOC,short,824,0.985,0.5146,-719.09,-0.87,4191.36,-10.9,false
+vah_reject_short_toPOC,short,1280,0.945,0.5945,-3606.91,-2.82,7384.7,-54.65,false
+val_reclaim_long_toPOC,long,1046,0.988,0.6157,-704.45,-0.67,3881.11,-10.67,false
+sweep_low_reclaim_long_toPOC,long,811,1.006,0.4476,416.61,0.51,6542.73,6.31,false
